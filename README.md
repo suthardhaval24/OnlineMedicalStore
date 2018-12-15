@@ -1,2 +1,2 @@
-# OnlineMedicalStore
-Designed Database for The Online Medical Store System
+# Online Medical Store
+## Designed Database System for The Online Medical Store

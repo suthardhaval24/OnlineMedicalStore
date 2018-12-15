@@ -18,7 +18,7 @@ This project demonstrate the effective database design techniques combined with 
 
 * **NOTES**
 1. ONLINEMEDICALSTORE.mwb contains ER Diagram of project 
-2. PROJECTREPOT.PDF contains the information of various functions used in Project. 
+2. ONLINE MEDICAL STORE.PDF contains the information of various functions used in Project. 
 
 * **AUTHOR**:
 
